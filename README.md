@@ -33,7 +33,7 @@ Enter the number of minutes to study, then focus.
 ---
 
 ## Log File Example 
-('study_log.txt')
+(study_log.txt)
 
 === Study Log ===
 
