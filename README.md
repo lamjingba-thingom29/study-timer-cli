@@ -43,20 +43,8 @@ Enter the number of minutes to study, then focus.
 ## Example Output
 
 ![Example](screenshot.png)
----
-
-## Why This Project Matters
-
-This shows:
-
-- Self-discipline habits
-- Control with loops, conditionals, time, input
-- File handling for logging
-- Clean and functional CLI design
-
-Perfect for:
-- GKS portfolio
-- Programming learning track
-- Resume and LinkedIn showcase
+![Example](logexam.png)
 
 ---
+
+
