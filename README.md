@@ -32,18 +32,17 @@ Enter the number of minutes to study, then focus.
 
 ---
 
-## Log File Example (study_log.txt)
+## Log File Example ('study_log.txt')
 
 === Study Log ===
 
-2025-11-09 16:12 - Studied: 25 minutes
+2025-11-09 16:12 - Studied: 25 minutes  
 2025-11-09 18:44 - Studied: 14 minutes
 ---
 
 ## Example Output
 
-(Insert screenshot here)
-
+![Example](screenshot.png)
 ---
 
 ## Why This Project Matters
